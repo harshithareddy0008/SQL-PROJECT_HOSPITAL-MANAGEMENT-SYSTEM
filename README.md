@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hospital Management System - MySQL
 
 A complete **Hospital Management System** database project built using **MySQL**.  
@@ -256,4 +256,4 @@ Hospital-Management-System-SQL/
 This project was created as a SQL portfolio project to demonstrate practical knowledge of relational database design, MySQL, advanced querying, database programming, and analytical reporting.
 =======
 # SQL-PROJECT_HOSPITAL-MANAGEMENT-SYSTEM
->>>>>>> e9ae83631840b48b1f008ff87450824425e59a92
+
